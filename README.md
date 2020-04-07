@@ -108,13 +108,13 @@
 ### 낱말카드 정보입력 화면
 ***
 <p align="center"> 
-<img src="/img/낱말카드정보입력.jpg" width="60%" height="40%" title="낱말카드정보입력"></img>
+<img src="/img/낱말카드정보입력.JPG" width="60%" height="40%" title="낱말카드정보입력"></img>
 </p>
 
 ### 낱말카드 문제정답 선택 화면
 ***
 <p align="center"> 
-<img src="/img/낱말카드_문제정답선택.jpg" width="60%" height="40%" title="낱말카드문제정답선택"></img>
+<img src="/img/낱말카드_문제정답선택.JPG" width="60%" height="40%" title="낱말카드문제정답선택"></img>
 </p>   
    
 * 스크린을 선택하면 놀이판에 타공된 블럭 위치들과 블럭 개수가 뜬다.
@@ -123,7 +123,7 @@
 ### 낱말카드 문제정답 정보 화면
 ***
 <p align="center"> 
-<img src="/img/낱말카드_문제정답정보.jpg" width="60%" height="40%" title="낱말카드문제정답정보"></img>
+<img src="/img/낱말카드_문제정답정보.JPG" width="60%" height="40%" title="낱말카드문제정답정보"></img>
 </p>   
    
 * 좌우로 크게 둘로 나눈다.
@@ -135,7 +135,7 @@
 ### 기본 음원 텍스트파일 출력
 ***
 <p align="center"> 
-<img src="/img/mp3.jpg" width="60%" height="40%" title="기본음원텍스트파일"></img>
+<img src="/img/mp3.JPG" width="60%" height="40%" title="기본음원텍스트파일"></img>
 </p>   
    
 * 위의 형식으로 하드웨어가 텍스트파일을 읽는다.
@@ -143,7 +143,7 @@
 ### 문제 음원 텍스트파일 출력
 ***
 <p align="center"> 
-<img src="/img/qMp3.jpg" width="60%" height="40%" title="문제음원텍스트파일"></img>
+<img src="/img/qMp3.JPG" width="60%" height="40%" title="문제음원텍스트파일"></img>
 </p>   
    
 * 위의 형식으로 하드웨어가 텍스트파일을 읽는다.
@@ -151,7 +151,7 @@
 ### 정답 텍스트파일 출력
 ***
 <p align="center"> 
-<img src="/img/answer.jpg" width="60%" height="40%" title="정답텍스트파일"></img>
+<img src="/img/answer.JPG" width="60%" height="40%" title="정답텍스트파일"></img>
 </p>   
    
 * 위의 형식으로 하드웨어가 텍스트파일을 읽는다.
@@ -159,7 +159,7 @@
 ### 정답 음원 텍스트파일 출력
 ***
 <p align="center"> 
-<img src="/img/aMp3.jpg" width="60%" height="40%" title="정답음원텍스트파일"></img>
+<img src="/img/aMp3.JPG" width="60%" height="40%" title="정답음원텍스트파일"></img>
 </p>   
    
 * 위의 형식으로 하드웨어가 텍스트파일을 읽는다.
