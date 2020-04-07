@@ -15,6 +15,7 @@
 <p align="center">
 <img src="/img/메인.JPG" width="30%" height="20%" title="메인"></img>
 </p>   
+   
 * 프로그램을 실행하면 메인 창이 뜬다.
 * 버튼은 놀이판, 낱말카드가 있다.
 	+ 놀이판에서는 screen과 init, block 텍스트파일을 출력할 수 있고 스크린파일을 만들고 저장한다.
@@ -25,6 +26,7 @@
 <p align="center">
 <img src="/img/놀이판기본.JPG" width="60%" height="40%" title="놀이판기본"></img>
 </p>   
+   
 * 왼쪽 상단에서는 놀이판용 음원을 작성.
 * 왼쪽 하단에서는 저장된 놀이판들을 불러올 수 있다.
 * 가운데 부분은 타공위치를 matrix로 표현.
@@ -52,6 +54,7 @@
 <p align="center">
 <img src="/img/자유놀이정보입력.JPG" width="60%" height="40%" title="자유놀이정보입력"></img>
 </p>   
+   
 * 좌우로 나뉜다. 이때 파란색 텍스트는 버튼이다. ex) 블럭을 누르면 행으로 블럭이 추가된다.
 	+ 왼쪽은 블럭당 인식되는 좌표를 선택한다.
 		- 앞서 놀이판에서 타공된 블럭들이 상단에 리스팅된다.
@@ -68,6 +71,7 @@
 <p align="center">
 <img src="/img/screen.JPG" width="60%" height="40%" title="놀이판보드텍스트파일"></img>
 </p>   
+   
 * 타공된 위치를 0과 1로 표현하여 텍스트파일로 저장. __(5도 1로 표현)__
 * 위의 형식으로 하드웨어가 텍스트파일을 읽는다.
 
@@ -76,6 +80,7 @@
 <p align="center">
 <img src="/img/init.JPG" width="60%" height="40%" title="놀이판음원텍스트파일"></img>
 </p>   
+   
 * 위의 형식으로 하드웨어가 텍스트파일을 읽는다.
 
 ### 놀이판 출력된 텍스트파일 (자유놀이)
@@ -83,13 +88,15 @@
 <p align="center">
 <img src="/img/block.JPG" width="60%" height="40%" title="놀이판자유놀이텍스트파일"></img>
 </p>   
+   
 * 위의 형식으로 하드웨어가 텍스트파일을 읽는다.
 
 ### 낱말카드 문제탭 기본 화면
 ***
 <p align="center"> 
 <img src="/img/낱말카드기본.JPG" width="60%" height="40%" title="낱말카드문제탭기본화면"></img>
-</p>
+</p>   
+   
 * 낱말카드의 기본 화면.
 * 상단의 빨간색과 파란색 텍스트는 버튼이다.
 	+ 텍스트출력은 기본 음원과 문제 음원, 정답, 정답 음원을 출력.
@@ -108,7 +115,8 @@
 ***
 <p align="center"> 
 <img src="/img/낱말카드_문제정답선택.jpg" width="60%" height="40%" title="낱말카드문제정답선택"></img>
-</p>
+</p>   
+   
 * 스크린을 선택하면 놀이판에 타공된 블럭 위치들과 블럭 개수가 뜬다.
 * 확인을 누르면 문제정답정보로 이동하고 취소를 누르면 되돌아간다.
 
@@ -116,7 +124,8 @@
 ***
 <p align="center"> 
 <img src="/img/낱말카드_문제정답정보.jpg" width="60%" height="40%" title="낱말카드문제정답정보"></img>
-</p>
+</p>   
+   
 * 좌우로 크게 둘로 나눈다.
 	+ 왼쪽에서는 체크박스를 통해 해당 블럭에 문제와 정답을 설정할 것인지 체크.
 	+ 오른쪽에서는 문제와 정답에 재생될 음원을 추가한다.
@@ -127,26 +136,30 @@
 ***
 <p align="center"> 
 <img src="/img/mp3.jpg" width="60%" height="40%" title="기본음원텍스트파일"></img>
-</p>
+</p>   
+   
 * 위의 형식으로 하드웨어가 텍스트파일을 읽는다.
 
 ### 문제 음원 텍스트파일 출력
 ***
 <p align="center"> 
 <img src="/img/qMp3.jpg" width="60%" height="40%" title="문제음원텍스트파일"></img>
-</p>
+</p>   
+   
 * 위의 형식으로 하드웨어가 텍스트파일을 읽는다.
 
 ### 정답 텍스트파일 출력
 ***
 <p align="center"> 
 <img src="/img/answer.jpg" width="60%" height="40%" title="정답텍스트파일"></img>
-</p>
+</p>   
+   
 * 위의 형식으로 하드웨어가 텍스트파일을 읽는다.
 
 ### 정답 음원 텍스트파일 출력
 ***
 <p align="center"> 
 <img src="/img/aMp3.jpg" width="60%" height="40%" title="정답음원텍스트파일"></img>
-</p>
+</p>   
+   
 * 위의 형식으로 하드웨어가 텍스트파일을 읽는다.
