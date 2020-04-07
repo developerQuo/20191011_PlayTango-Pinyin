@@ -1,0 +1,6 @@
+start,ko,1,/bb_contents/601/chinesecharacter_init1.mp3,
+play_complete,ko,1,/bb_contents/601/chinesecharacter_correct1.mp3,
+play_incomplete,ko,1,/bb_contents/601/chinesecharacter_incorrect1mp3.mp3,
+start,en,1,/tangoch/tangoch_title1.mp3,
+play_complete,en,1,/bb_contents/601/chinesecharacter_correct1.mp3,
+play_incomplete,en,1,/bb_contents/601/chinesecharacter_incorrect1mp3,
